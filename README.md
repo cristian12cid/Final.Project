@@ -16,7 +16,7 @@ File-Based Data Storage: Information such as images, descriptions, and pricing f
 
 Installation
 Clone the repository:
-git clone https://github.com/your-username/tool-rental-app.git
+git clone https://github.com/cristian12cid/tool-rental-app.git
 
 Navigate to the project directory:
 cd tool-rental-app
