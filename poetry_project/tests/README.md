@@ -7,7 +7,7 @@ Flow Diagram
 ![ArhitectureDiagram](C:\Users\Dell\PycharmProjects\Poetry_Project\FlowDiagram.png)
 This Python-based tool rental application provides a user-friendly interface for browsing and renting various tools from different categories and brands. The application leverages Tkinter for the graphical interface and seamlessly integrates with a structured JSON file containing detailed tool information.
 
-Features
+Features.
 User Authentication
 Login Interface: Users can log in using credentials to access the tool selection functionality.
 Tool Selection and Rental
